@@ -1,8 +1,8 @@
 ## About BYTEs
 
-- 🖱 Information Technology Enthusiast
-- 🌱 I'm currently learning Full Stack Web Development, including React and Laravel; and Networking.
-- 💬 Ask me about how to fix your appliances.
+🖱 Information Technology Enthusiast
+🌱 I'm currently learning Full Stack Web Development, including React and Laravel; and Networking.
+💬 Ask me about how to fix your appliances.
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=9781f0)
